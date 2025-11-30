@@ -14,11 +14,6 @@ Quick reference notes for common programming languages and technologies.
 | [python.md](python.md) | Python fundamentals - collections, classes, file I/O |
 | [php.md](php.md) | PHP fundamentals - forms, PDO, sessions |
 | [ruby.md](ruby.md) | Ruby fundamentals - blocks, procs, OOP |
-
-## Other
-
-| File | Description |
-|------|-------------|
 | [sql.md](sql.md) | SQL fundamentals - CRUD, joins, aggregates |
 | [html.md](html.md) | HTML fundamentals - elements, forms, semantic tags |
 | [tailwindcss.md](tailwindcss.md) | Tailwind CSS - utility classes, responsive design |
