@@ -1,5 +1,7 @@
 # TailwindCSS Fundamentals
 
+> Tailwind CSS is a utility-first CSS framework. Instead of writing CSS, you apply pre-built classes directly in HTML.
+
 ## Container
 
 ```html

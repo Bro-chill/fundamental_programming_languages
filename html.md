@@ -1,5 +1,7 @@
 # HTML Fundamentals
 
+> HTML (HyperText Markup Language) is the standard language for creating web pages. It defines the structure and content of a webpage.
+
 ## Basic HTML Document Structure
 
 ```html

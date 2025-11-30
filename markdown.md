@@ -1,4 +1,12 @@
-<!-- Headings -->
+# Markdown Fundamentals
+
+> Markdown is a lightweight markup language for creating formatted text. Used in README files, documentation, and notes.
+
+---
+
+## Headings
+
+```markdown
 # Heading 1
 ## Heading 2
 ### Heading 3
